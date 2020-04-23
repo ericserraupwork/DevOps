@@ -28,8 +28,28 @@ Jenkins is a free and open source automation server. It helps automate the parts
 ![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j2.PNG)
 ![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j3.PNG)
 + When the plugin installation finishes, you will be asked to create a new administrative user
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j4.PNG)
++ If successful, you will see
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j5.PNG)
 + Click on Start using Jenkins to display the application dashboard
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j6.PNG)
 + As mentioned earlier, this guide will use the new Blue Ocean interface, so you will need to click the Manage Jenkins link on the sidebar
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j7.PNG)
++ A new menu will appear. Click on Manage Plugins
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j8.PNG)
++ Click on the Available tab and filter the results searching for Blue Ocean
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j9.PNG)
++ Check the box corresponding to Blue Ocean plugin and then click the button Install without restart.
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j10.PNG)
++ You should see the installation progress. Once it’s finished click the Go back to the top page link, then click the Open Blue Ocean link in the sidebar
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j11.PNG)
++ You’ll then see the new Blue Ocean dashboard
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j12.PNG)
+
+
+
+
+
 
 + reference
     + `https://www.linode.com/docs/development/ci/automate-builds-with-jenkins-on-ubuntu/`
