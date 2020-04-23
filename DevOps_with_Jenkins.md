@@ -47,11 +47,16 @@ Jenkins is a free and open source automation server. It helps automate the parts
 ![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j12.PNG)
 
 
-
-
-
-
 + reference
     + `https://www.linode.com/docs/development/ci/automate-builds-with-jenkins-on-ubuntu/`
-        
+
+### Set up trigger time
+
+### Permission Error you may got
+
++ All command is run with username "jenkins"
++ Add jenkins user to docker group
+    + `sudo usermod -a -G docker jenkins`
++ give all grant to docker group
+    + `sudo chmod 777 /var/run/docker.sock`       
            
