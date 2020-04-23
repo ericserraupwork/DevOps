@@ -26,6 +26,7 @@ Jenkins is a free and open source automation server. It helps automate the parts
     + `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
 + Choose Install suggested plugins to start downloading the standard plugins
 ![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j2.PNG)
+![Relevance feedback image](https://github.com/ericserraupwork/DevOps/blob/master/screenshots/j3.PNG)
 + When the plugin installation finishes, you will be asked to create a new administrative user
 + Click on Start using Jenkins to display the application dashboard
 + As mentioned earlier, this guide will use the new Blue Ocean interface, so you will need to click the Manage Jenkins link on the sidebar
